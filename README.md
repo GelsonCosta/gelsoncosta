@@ -74,7 +74,7 @@ Engenheiro de Software Full Stack focado na construção de **aplicações escal
 <div align="center">
 
 <img height="170"
-src="https://github-stats-extended.vercel.app/api?username=gelsoncosta&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+src="https://github-stats-extended.vercel.app/api/top-langs?username=GelsonCosta&langs_count=4&theme=nord"/>
 
 <img height="170"
 src="https://github-stats-extended.vercel.app/api/top-langs/?username=gelsoncosta&layout=compact&theme=dracula&hide_border=true&count_private=true"/>
