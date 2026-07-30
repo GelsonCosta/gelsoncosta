@@ -82,7 +82,7 @@ src="https://github-stats-extended.vercel.app/api?username=GelsonCosta&show_icon
 
 
 </div>
----
+
 
 <div align="center">
 
