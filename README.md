@@ -14,12 +14,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-Engenheiro de Software Full Stack focado na construção de **aplicações escaláveis, robustas e de alta performance**[cite: 1]. Tenho forte domínio na engenharia de **Backend (Golang & Node.js)**[cite: 1], integração e documentação de APIs REST/GraphQL[cite: 1], além do domínio de desenvolvimento **Frontend moderno com React e Next.js**[cite: 1].
+Engenheiro de Software Full Stack focado na construção de **aplicações escaláveis, robustas e de alta performance**. Tenho forte domínio na engenharia de **Backend (Golang & Node.js)**, integração e documentação de APIs REST/GraphQL, além do domínio de desenvolvimento **Frontend moderno com React e Next.js**.
 
-- 🔭 **Atualmente:** Engenheiro de Software na **Kitata Tech**[cite: 1], atuando na arquitetura e desenvolvimento de sistemas de alto tráfego[cite: 1].
-- 📚 **Aprofundamento Contínuo:** Estudando ativamente **System Design & Arquiteturas Distribuídas** (via ByteByteGo e Design Gurus)[cite: 1].
-- 🎓 **Formação:** Licenciado em Ciência da Computação (IMETRO)[cite: 1] e Técnico em Informática pelo ITEL[cite: 1].
-- 🎯 **Foco Técnico:** Clean Architecture, Layered Architecture, Domain-Driven Design (DDD), CI/CD e Cloud Computing[cite: 1].
+- 🔭 **Atualmente:** Engenheiro de Software na **Kitata Tech**, atuando na arquitetura e desenvolvimento de sistemas de alto tráfego.
+- 📚 **Aprofundamento Contínuo:** Estudando ativamente **System Design & Arquiteturas Distribuídas** (via ByteByteGo e Design Gurus).
+- 🎓 **Formação:** Licenciado em Ciência da Computação (IMETRO) e Técnico em Informática pelo ITEL.
+- 🎯 **Foco Técnico:** Clean Architecture, Layered Architecture, Domain-Driven Design (DDD), CI/CD e Cloud Computing.
 
 ---
 
@@ -38,6 +38,7 @@ Engenheiro de Software Full Stack focado na construção de **aplicações escal
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=shield&logoColor=white)
 
 ### **Frontend & UI**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -62,9 +63,9 @@ Engenheiro de Software Full Stack focado na construção de **aplicações escal
 
 ## 🎓 Formação Acadêmica & Estudos
 
-- 🎓 **Licenciatura em Ciência da Computação** — Instituto Superior Metropolitano de Angola (IMETRO) *(2022–2026)*[cite: 1]
-- 🏫 **Ensino Médio Técnico em Tecnologia da Informação** — ITEL *(2018–2022)* | Nota Final: **15**[cite: 1]
-- 📖 **Especialização Autónoma:** System Design, Arquitetura Distribuída & Scalability (ByteByteGo & Design Gurus)[cite: 1]
+- 🎓 **Licenciatura em Ciência da Computação** — Instituto Superior Metropolitano de Angola (IMETRO) *(2022–2026)*
+- 🏫 **Ensino Médio Técnico em Tecnologia da Informação** — ITEL *(2018–2022)* | Nota Final: **15**
+- 📖 **Especialização Autónoma:** System Design, Arquitetura Distribuída & Scalability (ByteByteGo & Design Gurus)
 
 ---
 
@@ -72,12 +73,22 @@ Engenheiro de Software Full Stack focado na construção de **aplicações escal
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelsoncostadev&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" height="165" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=gelsoncostadev&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
+<img height="170"
+src="https://github-stats-extended.vercel.app/api?username=gelsoncostadev&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+
+<img height="170"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=gelsoncostadev&layout=compact&theme=dracula&hide_border=true&count_private=true"/>
+
+<img width="100%"
+src="https://streak-stats.demolab.com?user=gelsoncostadev&theme=dracula&hide_border=true"/>
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=gelsoncostadev&theme=github-compact"/>
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=gelsoncostadev&theme=dracula&row=1&column=7&no-frame=true"/>
 
 </div>
-
 ---
 
 <div align="center">
