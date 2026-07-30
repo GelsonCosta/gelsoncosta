@@ -69,7 +69,7 @@ Engenheiro de Software Full Stack focado na construção de **aplicações escal
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -79,12 +79,12 @@ src="https://github-stats-extended.vercel.app/api?username=gelsoncosta&show_icon
 <img height="170"
 src="https://github-stats-extended.vercel.app/api/top-langs/?username=gelsoncosta&layout=compact&theme=dracula&hide_border=true&count_private=true"/>
 
+<img width="100%"
+src="https://streak-stats.demolab.com?user=gelsoncosta&theme=dracula&hide_border=true"/>
 
 <img width="100%"
 src="https://github-readme-activity-graph.vercel.app/graph?username=gelsoncosta&theme=github-compact"/>
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=gelsoncosta&theme=dracula&row=1&column=7&no-frame=true"/>
 
 </div>
 ---
