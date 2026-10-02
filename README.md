@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Engenheiro de Software Full Stack focado na construção de **aplicações escaláveis, robustas e de alta performance**. Tenho forte domínio na engenharia de **Backend (Golang & Node.js)**, integração e documentação de APIs REST/GraphQL, além do domínio de desenvolvimento **Frontend moderno com React e Next.js**.
+Engenheiro de Software Full Stack focado na construção de **aplicações escaláveis, robustas e de alta performance**. Tenho forte domínio na engenharia de **Backend (Laravel, .NET e Node.js no trabalho; Golang em projetos pessoais)**, integração e documentação de APIs REST/GraphQL, além do domínio de desenvolvimento **Frontend moderno com React, Next.js e Angular**.
 
 - 🔭 **Atualmente:** Engenheiro de Software na **Kitata Tech**, atuando na arquitetura e desenvolvimento de sistemas de alto tráfego.
 - 📚 **Aprofundamento Contínuo:** Estudando ativamente **System Design & Arquiteturas Distribuídas** (via ByteByteGo e Design Gurus).
@@ -29,8 +29,14 @@ Engenheiro de Software Full Stack focado na construção de **aplicações escal
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### **Backend & APIs**
+> 💼 **Trabalho:** Laravel, .NET e Node.js &nbsp;|&nbsp; 🧪 **Projetos pessoais:** Golang
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -43,6 +49,7 @@ Engenheiro de Software Full Stack focado na construção de **aplicações escal
 ### **Frontend & UI**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443e38?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
@@ -73,8 +80,7 @@ Engenheiro de Software Full Stack focado na construção de **aplicações escal
 
 <div align="center">
 
-<img height="170"
-src="https://github-stats-extended.vercel.app/api/top-langs?username=GelsonCosta&langs_count=4&theme=nord"/>
+
 
 <img height="170"
 src="https://github-stats-extended.vercel.app/api?username=GelsonCosta&show_icons=true&include_all_commits=true&theme=nord"/>
